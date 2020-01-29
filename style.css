@@ -1,0 +1,52 @@
+/* CSS DOCUMENT */
+
+h1 {
+    color: rgb(204, 153, 102);
+    font-size: 3.5em;
+    font-family: serif;
+    margin: 1em 1em 0.5em 1em;
+    text-align: center
+}
+
+hr {
+    width: 70%;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+h2 {
+    color: rgb(68, 94, 119);
+    font-size: 1.5em;
+    font-family: serif;
+    margin: 2em 1em 1em 1em;
+    text-align: center
+}
+
+h3 {
+    color: rgb(68, 94, 119);
+    font-size: 1.2em;
+    font-family: serif;
+    font-style:italic;
+    margin: 2em 1em 1em 1em;
+    text-align: left
+}
+
+h4 {
+    color: rgb(204, 153, 102);
+    font-size: 1em;
+    font-family: serif;
+    margin: 1em 0 0.5em; 
+}
+
+.price {
+    color: rgb(103, 138, 172);
+    font-size: 1em;
+    font-family: serif;
+    text-align: right;
+    margin-top: 0.2em;
+    margin-bottom: 2em;  
+}
+
+p{
+    margin-top: 0.2em;
+}
