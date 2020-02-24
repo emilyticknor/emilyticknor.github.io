@@ -1,0 +1,240 @@
+
+/* CSS DOCUMENT */
+
+body {
+  height: 100%;
+    background-color: rgb (252, 252, 252);
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	width: 100%;  
+}
+
+
+img.logo {
+    width: 100%;
+    padding-bottom: 0;
+    display:block;
+    margin-left:;
+    margin-right: 0;
+}
+
+
+nav li{
+    display: inline;
+    text-transform: uppercase;
+    float: center;
+    font-family: 'Helvetica', sans-serif; 
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    position: center;
+    padding: 1em;
+    margin-left: 1.8em;
+}
+
+nav a:hover {
+  color: #980E0E;
+}
+
+nav ul{
+    list-style-type: none;
+    text-align: center;
+	margin-bottom: 0;
+    padding-left: 0;  
+}
+
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2em;
+    width: 80%;
+}
+
+.home h1 {
+    font-family: 'Bebas Neue';
+	text-align: center;
+    color: #000000;
+    
+}
+
+.home h2{
+    color: #000000;
+    font-size: 1em;
+    font-family: 'Helvetica', sans-serif;
+    font-weight: 530;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 2em;
+    margin-bottom: 3em;
+    line-height: 2em;
+    text-align: center;
+    display: inline-block; 
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+
+
+footer {
+    position: relative;
+	bottom: 0em;
+	left: 0;
+	right: 0;
+	padding: 0;
+	width: 100%;
+	margin-top: 3em;
+}
+
+footer h3{
+    text-align: center;
+    padding-bottom: 1em;
+    color: #980E0E;
+    font-family: 'Helvetica', sans-serif;
+    font-size: 1em; 
+    font-weight: 550; 
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+.menu h1 {
+	 font-family: 'Bebas Neue';
+	text-align: center;
+    
+    
+}
+
+.menu h2 {
+	font-family: 'Helvetica', sans-serif; 
+	text-transform: uppercase;
+	text-align: center;
+    margin-right: .5em;
+    margin-left: .5em;
+    margin-bottom: auto;
+    margin-top: 1.5em;
+    
+}
+
+hr {
+    width: 65%;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: #C13131;
+}
+
+.menu h3 {
+    font-family: 'Helvetica', sans-serif; 
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: .1em;
+    margin-right: .5em;
+    margin-left: .5em;
+    margin-top: 1em;
+}
+
+.menu p {
+	font-family: 'Helvetica', sans-serif; 
+    text-align: center;
+    
+    
+}
+
+.menu ul {
+	padding-left: 1.5em;
+    margin-right: .5em;
+    margin-left: .5em;
+    padding-right: 1.5em;
+}
+
+.menu li {
+	font-family: 'Helvetica', sans-serif; 
+	line-height: 2em;
+	list-style-type: none;
+	padding-bottom: .2em;
+    padding-right: 2em;
+    padding-left: 2em;
+}
+
+
+.hours h1 {
+	 font-family: 'Bebas Neue';
+	text-align: center;
+    
+}
+
+.hours h2 {
+	font-family: 'Helvetica', sans-serif; 
+	text-transform: uppercase;
+	text-align: center;
+    margin-right: .5em;
+    margin-left: .5em;
+    margin-bottom: auto;
+    margin-top: 1.5em;
+    
+}
+
+
+.hours ul {
+	padding-left: 1.5em;
+    margin-right: .5em;
+    margin-left: .5em;
+    padding-right: 1.5em;
+}
+
+.hours li {
+	font-family: 'Helvetica', sans-serif; 
+	line-height: 1em;
+    list-style-type: none;
+	padding-bottom: .2em;
+    padding-right: 2em;
+    padding-left: 2em;
+    text-align: center;
+}
+
+.hour p {
+	font-family: 'Helvetica', sans-serif; 
+    text-align: center;
+}
+
+
+
+.locations h1 {
+    font-family: 'Bebas Neue';
+	text-align: center;
+    
+}
+
+.locations h2 {
+	font-family: 'Helvetica', sans-serif; 
+	text-transform: uppercase;
+	text-align: center;
+    margin-right: .5em;
+    margin-left: .5em;
+    margin-bottom: auto;
+    margin-top: 1.5em;
+    
+}
+
+.locations p {
+	font-family: 'Helvetica', sans-serif; 
+    text-align: center;
+}
+
+
+
+iframe {
+	padding-top: 1em;
+	padding-bottom: 2em;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
